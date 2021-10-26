@@ -1,6 +1,5 @@
-import { useEffect, useState } from "react";
 import "./App.css";
-import { HauntedHouseReport } from "./version1";
+import { HauntedHouseReport } from "./version2";
 
 function App() {
   return (
