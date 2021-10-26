@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 export function useHauntedHouses() {
-  return useState(["Creepy Manor"])[0];
+  return useState(["Creepy Mansion", "Abandoned WeWork"])[0];
 }
 
 export function useGhostCount(houseName: string) {
