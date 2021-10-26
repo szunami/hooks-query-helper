@@ -1,10 +1,10 @@
 import "./App.css";
-import { HauntedHouseReport } from "./version2";
+import { RegionalHauntedHouseReport } from "./version3";
 
 function App() {
   return (
     <div className="App">
-      <HauntedHouseReport />
+      <RegionalHauntedHouseReport />
     </div>
   );
 }
